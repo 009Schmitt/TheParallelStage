@@ -1,0 +1,48 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/schmi/OneDrive/Documentos/Unreal Projects/TheParallelStage/TheParallelStage/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/schmi/OneDrive/Documentos/Unreal Projects/TheParallelStage/TheParallelStage/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/DD/654T6CAPVSXAN1LXEX71EI.uasset",
+				"C:/Users/schmi/OneDrive/Documentos/Unreal Projects/TheParallelStage/TheParallelStage/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/51/6JKB4DNGJP09QUHY23FHRV.uasset",
+				"C:/Users/schmi/OneDrive/Documentos/Unreal Projects/TheParallelStage/TheParallelStage/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/91/64ROQWZ22CQVFJMU4XABML.uasset",
+				"C:/Users/schmi/OneDrive/Documentos/Unreal Projects/TheParallelStage/TheParallelStage/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/VP/FVTPO8KZ0WPMCSQLVJE6O9.uasset",
+				"C:/Users/schmi/OneDrive/Documentos/Unreal Projects/TheParallelStage/TheParallelStage/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/Q2/TOKV0KMMZ7RIQ78R0UEDQL.uasset",
+				"C:/Users/schmi/OneDrive/Documentos/Unreal Projects/TheParallelStage/TheParallelStage/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/OJ/9MHHMH0XHVZ04YDZ7NPC32.uasset",
+				"C:/Users/schmi/OneDrive/Documentos/Unreal Projects/TheParallelStage/TheParallelStage/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Y4/KY9ZXT77SAVGWBRTNCFCSC.uasset",
+				"C:/Users/schmi/OneDrive/Documentos/Unreal Projects/TheParallelStage/TheParallelStage/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/SZ/D1AHM62WL9TXSNPYQDXQMZ.uasset",
+				"C:/Users/schmi/OneDrive/Documentos/Unreal Projects/TheParallelStage/TheParallelStage/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/3M/4ATOKH0ZGPCVBS85MPKAXK.uasset",
+				"C:/Users/schmi/OneDrive/Documentos/Unreal Projects/TheParallelStage/TheParallelStage/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/WS/X084A70TPBKFLJDCV2U5PN.uasset",
+				"C:/Users/schmi/OneDrive/Documentos/Unreal Projects/TheParallelStage/TheParallelStage/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/DF/1GID8P6B00XRWKYCXU7HT1.uasset",
+				"C:/Users/schmi/OneDrive/Documentos/Unreal Projects/TheParallelStage/TheParallelStage/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/5X/6EW8RE9VA2GGHRWK614FCI.uasset",
+				"C:/Users/schmi/OneDrive/Documentos/Unreal Projects/TheParallelStage/TheParallelStage/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/DI/1JZHHCOBVQ2F5XRUWSES1X.uasset",
+				"C:/Users/schmi/OneDrive/Documentos/Unreal Projects/TheParallelStage/TheParallelStage/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/YY/ZEL6NJUQJU43LAD9X3NXTT.uasset",
+				"C:/Users/schmi/OneDrive/Documentos/Unreal Projects/TheParallelStage/TheParallelStage/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/QL/31H7DJTVWEX04CCMX5U1SN.uasset",
+				"C:/Users/schmi/OneDrive/Documentos/Unreal Projects/TheParallelStage/TheParallelStage/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/JT/XIHYQ8ZTVL6F9GCUZX1AQ2.uasset",
+				"C:/Users/schmi/OneDrive/Documentos/Unreal Projects/TheParallelStage/TheParallelStage/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/2J/R4MRTH8FEAO7ML1BCJFIZ2.uasset",
+				"C:/Users/schmi/OneDrive/Documentos/Unreal Projects/TheParallelStage/TheParallelStage/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/NB/NWWEVRQSGT6ARVZ8HQLCM9.uasset",
+				"C:/Users/schmi/OneDrive/Documentos/Unreal Projects/TheParallelStage/TheParallelStage/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/7P/QZX5AESKLO855EVPT5JU20.uasset",
+				"C:/Users/schmi/OneDrive/Documentos/Unreal Projects/TheParallelStage/TheParallelStage/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"C:/Users/schmi/OneDrive/Documentos/Unreal Projects/TheParallelStage/TheParallelStage/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R.uasset",
+				"C:/Users/schmi/OneDrive/Documentos/Unreal Projects/TheParallelStage/TheParallelStage/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UQ/J4174LBS80DHM1RTFVAQ76.uasset",
+				"C:/Users/schmi/OneDrive/Documentos/Unreal Projects/TheParallelStage/TheParallelStage/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/4N/J5T9T9NT5IVJT2S81LXOV3.uasset",
+				"C:/Users/schmi/OneDrive/Documentos/Unreal Projects/TheParallelStage/TheParallelStage/Content/NonEuclideanAssets/TeleportOneWay.uasset",
+				"C:/Users/schmi/OneDrive/Documentos/Unreal Projects/TheParallelStage/TheParallelStage/Content/NonEuclideanAssets/BP/TeleportOneWay.uasset",
+				"C:/Users/schmi/OneDrive/Documentos/Unreal Projects/TheParallelStage/TheParallelStage/Content/NonEuclideanAssets/BluePrints/TeleportOneWay.uasset",
+				"C:/Users/schmi/OneDrive/Documentos/Unreal Projects/TheParallelStage/TheParallelStage/Content/NonEuclideanAssets/Materials/MirrorCameraMaterial.uasset",
+				"C:/Users/schmi/OneDrive/Documentos/Unreal Projects/TheParallelStage/TheParallelStage/Content/NonEuclideanAssets/Materials/MirrorCameraMaterial_MI.uasset",
+				"C:/Users/schmi/OneDrive/Documentos/Unreal Projects/TheParallelStage/TheParallelStage/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/RO/AJU4NAYBM9JVU97VXJVDS2.uasset",
+				"C:/Users/schmi/OneDrive/Documentos/Unreal Projects/TheParallelStage/TheParallelStage/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/WC/J162BVUYDEB6PED15C49BQ.uasset",
+				"C:/Users/schmi/OneDrive/Documentos/Unreal Projects/TheParallelStage/TheParallelStage/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/CH/OXXO67JHTS11KECRL7YUTP.uasset",
+				"C:/Users/schmi/OneDrive/Documentos/Unreal Projects/TheParallelStage/TheParallelStage/Content/NonEuclideanAssets/Materials/MyRenderTarget2D.uasset",
+				"C:/Users/schmi/OneDrive/Documentos/Unreal Projects/TheParallelStage/TheParallelStage/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/ZQ/D0Z2G519I5NDWQSR0RB0IY.uasset",
+				"C:/Users/schmi/OneDrive/Documentos/Unreal Projects/TheParallelStage/TheParallelStage/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/E2/5XRF7OLUNOQS922ZQOF9JX.uasset",
+				"C:/Users/schmi/OneDrive/Documentos/Unreal Projects/TheParallelStage/TheParallelStage/Content/NonEuclideanAssets/Materials/MyRenderTarget2D2.uasset",
+				"C:/Users/schmi/OneDrive/Documentos/Unreal Projects/TheParallelStage/TheParallelStage/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/D6/7UJRZTDDX9FG26OZARVQTI.uasset"
+			]
+		}
+	]
+}
